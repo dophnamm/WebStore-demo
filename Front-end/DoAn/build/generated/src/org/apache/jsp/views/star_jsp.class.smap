@@ -1,0 +1,13 @@
+SMAP
+star_jsp.java
+JSP
+*S JSP
+*F
++ 0 star.jsp
+views/star.jsp
+*L
+1,5:54
+5:81,11
+6,4:92
+9,3:61
+*E
